@@ -1,4 +1,4 @@
-# Simple Python program
+ Simple Python program
 
 name = input("Enter your name: ")
 
