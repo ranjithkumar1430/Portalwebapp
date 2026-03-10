@@ -1,6 +1,6 @@
  Simple Python program
 
-name = input("Enter your name: ")
+name = input("ranjith: ")
 
-print("Hello", name)
+print("Hello", ranjith)
 print("Welcome to Python programming!")
